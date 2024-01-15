@@ -8,7 +8,7 @@ Open the Clientshot Webpage
 Enter the provided email and password
 Click the login button
 Expected Outcome: Successfully logs in; validate the user dashboard or profile page.
-Actual Outcome : Login Successful, validated the user dashboard 
+Actual Outcome : Login successfull, validated the user dashboard 
 
 
 Automated Feedback Export (Complaints):
